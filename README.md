@@ -1,6 +1,6 @@
 # EDA Projects Portfolio 📁
 
-Welcome to my Exploratory Data Analysis (EDA) Projects Repository 📊 
+Welcome to my Exploratory Data Analysis (EDA) Projects Repository 📊 <br>
 Here you'll find multiple projects focused on discovering insights, uncovering patterns, and presenting data stories through impactful visualizations.
 
 ---
