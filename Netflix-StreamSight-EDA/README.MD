@@ -1,4 +1,4 @@
-# 🎬 Netflix-StreamSight-EDA  
+# Netflix-StreamSight-EDA 🎬  
 **Exploratory Data Analysis on Netflix Titles**
 
 Unlocking trends and insights from Netflix’s content catalog using Python, Pandas, and Seaborn.
@@ -59,7 +59,7 @@ This project analyzes Netflix's public dataset to uncover patterns in content ty
 
 - Python (Pandas, NumPy)  
 - Matplotlib, Seaborn  
-- Jupyter Notebook / Google Colab  
+- Jupyter Notebook , Google Colab  
 - Git & GitHub  
 
 ---
@@ -71,5 +71,5 @@ GitHub: [Sandhya-1401](https://github.com/Sandhya-1401)
 
 ---
 
-⭐ _If you found this helpful, star the repo!_
+⭐ _If you found this helpful, Star the Repo!_
 
