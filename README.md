@@ -18,5 +18,12 @@ Turn raw data into meaningful stories through visual storytelling and data-drive
 
 ---
 
+## 📬 Contact
+
+Created by **Sandhya** | [LinkedIn](https://www.linkedin.com/in/rana-sandhya) | [Github](https://github.com/Sandhya-1401)  
+For any queries or collaborations, feel free to connect.
+
+---
+
 ## 🚀 Let's Connect!
 If you like this work, feel free to ⭐ star the repo and connect for collaborations !!
