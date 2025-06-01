@@ -1,4 +1,4 @@
-# Amazon Prime EDA – Content Analysis Insights 🎬  🎯
+# Amazon Prime EDA – Content Analysis Insights 🎯
 
 An in-depth Exploratory Data Analysis (EDA) project on Amazon Prime’s content catalog to uncover trends across genres, content types, IMDb ratings, actors, and runtime patterns. <br>
 This analysis helps identify strategic opportunities for content planning, production, and regional targeting.
@@ -62,6 +62,7 @@ This project delivers actionable insights to help Amazon Prime optimize its cont
 
 Created by **Sandhya** | [LinkedIn](https://www.linkedin.com/in/rana-sandhya)  
 For any queries or collaborations, feel free to connect.
+
 ---
 
 ⭐ _If you found this helpful, Star the Repo!_
