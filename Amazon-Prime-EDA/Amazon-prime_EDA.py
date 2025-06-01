@@ -18,7 +18,7 @@ Member Name: Rana Sandhya
 
 # **Project Summary**
 
-## **Unlocking Content Trends on Netflix Through Data Exploration**
+## **Unlocking Content Trends on Amazon-Prime Through Data Exploration**
 
 This project presents a detailed Exploratory Data Analysis (EDA) of Amazon Prime’s content catalog to uncover valuable insights into viewing trends, genre preferences, content ratings, casting patterns, and regional dynamics.
 
@@ -412,7 +412,7 @@ Content releases have increased significantly in the last decade.
 
 **Business Impact:**
 
-Helps Netflix understand trends and make decisions on acquiring or producing newer vs. classic content.
+Helps to understand trends and make decisions on acquiring or producing newer vs. classic content.
 """
 
 # Explode genres
