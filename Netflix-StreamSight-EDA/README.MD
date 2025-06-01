@@ -64,12 +64,11 @@ This project analyzes Netflix's public dataset to uncover patterns in content ty
 
 ---
 
-## 🙋‍♀️ Author
+## 📬 Contact
 
-**Sandhya Rana**  
-GitHub: [Sandhya-1401](https://github.com/Sandhya-1401)
+Created by **Sandhya** | [LinkedIn](https://www.linkedin.com/in/rana-sandhya)  
+For any queries or collaborations, feel free to connect.
 
 ---
 
 ⭐ _If you found this helpful, Star the Repo!_
-
