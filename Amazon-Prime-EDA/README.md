@@ -71,9 +71,17 @@ As Amazon Prime Video continues expanding globally, understanding which content 
 This project delivers actionable insights to help Amazon Prime optimize its content curation, production, and regional expansion strategies using data-driven analysis.
 
 ---
+## 🛠️ Tools Used
+
+- Python (Pandas, NumPy)  
+- Matplotlib, Seaborn  
+- Jupyter Notebook , Google Colab  
+- Git & GitHub  
+
+---
 
 ## 📬 Contact
 
-Created by **Sandhya** | [LinkedIn](https://www.linkedin.com/in/your-profile)  
+Created by **Sandhya** | [LinkedIn](https://www.linkedin.com/in/rana-sandhya)  
 For any queries or collaborations, feel free to connect.
 
