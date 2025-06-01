@@ -44,4 +44,14 @@ This project presents an in-depth **Exploratory Data Analysis (EDA)**, **Visuali
 2. Open the Jupyter Notebook: `FordBike.ipynb`.
 3. Run the cells to view charts, maps, and insights.
 
+---
+
+## 📬 Contact
+
+Created by **Sandhya** | [LinkedIn](https://www.linkedin.com/in/rana-sandhya)  
+For any queries or collaborations, feel free to connect.
+
+---
+
+⭐ _If you found this helpful, Star the Repo!_
 
